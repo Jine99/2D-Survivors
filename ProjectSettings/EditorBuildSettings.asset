@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Space Survival/Scenes/GameStart.unity
+    guid: d71a27ad9ff91354fbd45bac077b895c
+  - enabled: 1
     path: Assets/Space Survival/Scenes/GameScene.unity
     guid: 6c6c4613f8ae4034e9863845cfb25307
   - enabled: 1

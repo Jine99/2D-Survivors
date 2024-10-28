@@ -420,7 +420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 211732166}
   - component: {fileID: 211732167}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -582,7 +582,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 280686340}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: MoveDir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1110,7 +1110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 533996034}
   - component: {fileID: 533996035}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1193,7 +1193,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 536474841}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FireDir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1775,7 +1775,7 @@ GameObject:
   - component: {fileID: 898185150}
   - component: {fileID: 898185151}
   - component: {fileID: 898185152}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Renderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2916,7 +2916,7 @@ GameObject:
   - component: {fileID: 1966559060}
   - component: {fileID: 1966559059}
   - component: {fileID: 1966559061}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -3082,8 +3082,8 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
-  - {fileID: 1966559057}
   - {fileID: 1501272066}
+  - {fileID: 1966559057}
   - {fileID: 1947675867}
   - {fileID: 789639650}
   - {fileID: 733090075}
